@@ -9,5 +9,13 @@
     <color name="white">#FFFFFFFF</color>
     <color name="celeste">#03A9F4</color>
     <color name="gris">#BDBDBD</color>
+    <color name="background">#EAEDEF</color>
+    <color name="azul_620">#6200ee</color>
+    <color name="verde_187">#018786</color>
+    <color name="verde_83">#03dac5</color>
+    <color name="purple_640">#6404ee</color>
+    <color name="purple_86">#bb86fc</color>
+    <color name="azul_653"> #153653</color>
+    <color name="gris_9c">#9c9c9c</color>
 
 </resources>

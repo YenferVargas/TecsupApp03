@@ -12,6 +12,18 @@
         android:theme="@style/Theme.TecsupApp"
         tools:targetApi="31">
         <activity
+            android:name=".RegistrarEstudianteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarDocenteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CursoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InfoCursoActivity"
+            android:exported="false" />
+        <activity
             android:name=".NawActivity"
             android:exported="false" />
         <activity
@@ -20,12 +32,8 @@
         <activity
             android:name=".RegisterActivity"
             android:exported="false"
-            android:label="@string/Registro_usuarios"/>
-
-        />
-        <activity
-            android:name=".LoginActivity"
              />
+        <activity android:name=".LoginActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
